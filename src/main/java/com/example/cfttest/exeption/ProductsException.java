@@ -7,5 +7,4 @@ public class ProductsException extends RuntimeException{
     public ProductsException(String text){
         super(text);
     }
-
 }
