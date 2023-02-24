@@ -21,9 +21,4 @@ PS C:\Users\user> java -jar [Путь дирретории, в которой л
 ![image](https://user-images.githubusercontent.com/91644941/221108483-bc683aec-98dc-4e7f-a5a2-4bd5c2853451.png)
 Удаление диска:
 ![image](https://user-images.githubusercontent.com/91644941/221108666-df12fa06-2ead-41ea-9fdc-a2ed8657bf81.png)
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/91644941/221108781-2abc57db-6ba3-45c1-a1c5-2d910e47836c.png)
