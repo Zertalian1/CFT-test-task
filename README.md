@@ -15,6 +15,15 @@ PS C:\Users\user> java -jar [Путь дирретории, в которой л
 ![image](https://user-images.githubusercontent.com/91644941/221107438-ddd4c5e6-722b-4728-aed0-4069c7af436c.png)
 Диск добавлен:
 ![image](https://user-images.githubusercontent.com/91644941/221107531-041aa40b-ce69-45d4-9693-163c8b2cfd4c.png)
+Несколько дисков:
+![image](https://user-images.githubusercontent.com/91644941/221108551-1826d4da-740a-4514-ab52-d5871cca3c58.png)
+Получение диска по id:
+![image](https://user-images.githubusercontent.com/91644941/221108483-bc683aec-98dc-4e7f-a5a2-4bd5c2853451.png)
+Удаление диска:
+![image](https://user-images.githubusercontent.com/91644941/221108666-df12fa06-2ead-41ea-9fdc-a2ed8657bf81.png)
+
+
+
 
 
 
